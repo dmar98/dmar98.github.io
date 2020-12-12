@@ -20,69 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97235d21-f92c-4cb2-83d1-6436ad637c4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CULTH`sBane.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Detention.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HandyBot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HungryRivers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shelter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogic_caffeine.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/blogicCoffee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/blogicCoffee2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/handybot_wp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/item_01_HR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/item_02_HR.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/w3.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/flaticon/backup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/flaticon/font/Flaticon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/flaticon/font/Flaticon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/flaticon/font/Flaticon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/flaticon/font/Flaticon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/flaticon/font/Flaticon.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/flaticon/font/_flaticon.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/flaticon/font/flaticon.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/flaticon/font/flaticon.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/flaticon/license/license.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon/icomoon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/ionicons/css/_ionicons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/ionicons/css/ionicons.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/ionicons/fonts/ionicons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/ionicons/fonts/ionicons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/ionicons/fonts/ionicons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/ionicons/fonts/ionicons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/ionicons/fonts/ionicons.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/open-iconic/open-iconic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/open-iconic/open-iconic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/open-iconic/open-iconic.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/open-iconic/open-iconic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/open-iconic/open-iconic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/DetentionRoomFirstRoom.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/House.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ShelterStart.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Warmth.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/culthsbane_pic_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/aos.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/google-map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-3.2.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-migrate-3.0.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.animateNumber.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.easing.1.3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.stellar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.waypoints.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/owl.carousel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/scrollax.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/slideshow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic06.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,8 +74,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607779270078</updated>
-      <workItem from="1607779272508" duration="5383000" />
+      <workItem from="1607779272508" duration="5685000" />
     </task>
+    <task id="LOCAL-00001" summary="Changed Portfolio">
+      <created>1607784963290</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607784963290</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,5 +105,13 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Changed Portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed Portfolio" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="873" y="453" key="Vcs.Push.Dialog.v2" timestamp="1607784969061">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="873" y="453" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-3840.0.2560.1440@0.0.2560.1440" timestamp="1607784969061" />
   </component>
 </project>
