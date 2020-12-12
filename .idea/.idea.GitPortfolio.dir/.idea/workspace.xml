@@ -20,12 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97235d21-f92c-4cb2-83d1-6436ad637c4e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/images/pic01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GitPortfolio.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GitPortfolio.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CULTH`sBane.html" beforeDir="false" afterPath="$PROJECT_DIR$/CULTH`sBane.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detention.html" beforeDir="false" afterPath="$PROJECT_DIR$/Detention.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HandyBot.html" beforeDir="false" afterPath="$PROJECT_DIR$/HandyBot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HungryRivers.html" beforeDir="false" afterPath="$PROJECT_DIR$/HungryRivers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shelter.html" beforeDir="false" afterPath="$PROJECT_DIR$/Shelter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogic_caffeine.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogic_caffeine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +41,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Shelter.html" />
-        <option value="$PROJECT_DIR$/Detention.html" />
         <option value="$PROJECT_DIR$/blogic_caffeine.html" />
+        <option value="$PROJECT_DIR$/CULTH`sBane.html" />
+        <option value="$PROJECT_DIR$/Detention.html" />
         <option value="$PROJECT_DIR$/HandyBot.html" />
         <option value="$PROJECT_DIR$/HungryRivers.html" />
-        <option value="$PROJECT_DIR$/CULTH`sBane.html" />
-        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -74,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607779270078</updated>
-      <workItem from="1607779272508" duration="5685000" />
+      <workItem from="1607779272508" duration="6760000" />
     </task>
     <task id="LOCAL-00001" summary="Changed Portfolio">
       <created>1607784963290</created>
@@ -83,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607784963290</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Removed unused pictures">
+      <created>1607785018622</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607785018622</updated>
+    </task>
+    <task id="LOCAL-00003" summary=".xml changed">
+      <created>1607785051490</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607785051490</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,12 +122,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Changed Portfolio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed Portfolio" />
+    <MESSAGE value="Removed unused pictures" />
+    <MESSAGE value=".xml changed" />
+    <option name="LAST_COMMIT_MESSAGE" value=".xml changed" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="873" y="453" key="Vcs.Push.Dialog.v2" timestamp="1607784969061">
+    <state x="873" y="453" key="Vcs.Push.Dialog.v2" timestamp="1607785054474">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="873" y="453" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-3840.0.2560.1440@0.0.2560.1440" timestamp="1607784969061" />
+    <state x="873" y="453" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-3840.0.2560.1440@0.0.2560.1440" timestamp="1607785054474" />
   </component>
 </project>
