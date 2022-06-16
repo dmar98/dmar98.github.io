@@ -10,6 +10,7 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
     <link rel="stylesheet" href="assets/css/main.css"/>
+    <link rel="stylesheet" href="assets/css/w3.css">
     <noscript>
         <link rel="stylesheet" href="assets/css/noscript.css"/>
     </noscript>
@@ -22,8 +23,10 @@
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
-            <li><a href="blogic_caffeine.html" class="active">Hungry Rivers</a></li>
             <li><a href="https://bitbucket.org/dmar98/hungryrivers/src/master/" class="active">SourceCode</a></li>
+
+            <li><a href="DetentionRoom.html" class="active">< Detention Room</a></li>
+            <li><a href="CULTHBane.html" class="active">CULTH's Bane ></a></li>
         </ul>
     </nav>
 </header>
@@ -35,9 +38,19 @@
     <section id="main" class="wrapper">
         <div class="inner">
             <h1 class="major">Hungry Rivers</h1>
-            <span class="image fit"><img src="images/item_01_HR.png" alt=""/></span>
+            <div class="featured-image has-ribbon w3-content w3-display-container image fit">
+                <img class="mySlides" src="myAssets/HungryRiver/item_02_HR.png" alt="" style="display: block">
+                <img class="mySlides" src="myAssets/HungryRiver/item_01_HR.png" alt="" style="display: none">
 
-            <p>Hungry Rivers is a cooperative tower stacking game inspired a little bit by "Tricky Towers" in which two
+                <button class="w3-button w3-display-left" onclick="plusDivs(-1)" style="background-color: black">
+                    <
+                </button>
+                <button class="w3-button w3-display-right" onclick="plusDivs(+1)" style="background-color: black">
+                    >
+                </button>
+            </div>
+
+            <p>Hungry Rivers is a cooperative tower stacking game inspired by "Tricky Towers" in which two
                 or four players have to "build" their food towers. The difference is that the players play
                 cooperatively. Each player has his ability which becomes useful in a tricky situation, so players are
                 incentivized to communicate if they need a specific effect to help themselves.</p>
@@ -68,6 +81,7 @@
 <script src="assets/js/breakpoints.min.js"></script>
 <script src="assets/js/util.js"></script>
 <script src="assets/js/main.js"></script>
+<script src="assets/js/slideshow.js"></script>
 
 </body>
 </html>

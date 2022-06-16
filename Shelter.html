@@ -10,6 +10,7 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
     <link rel="stylesheet" href="assets/css/main.css"/>
+    <link rel="stylesheet" href="assets/css/w3.css">
     <noscript>
         <link rel="stylesheet" href="assets/css/noscript.css"/>
     </noscript>
@@ -22,8 +23,9 @@
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
-            <li><a href="blogic_caffeine.html" class="active">Shelter</a></li>
             <li><a href="https://globalgamejam.org/2019/games/shelter-0" class="active">GameJam2019</a></li>
+
+            <li><a href="CULTHBane.html" class="active">< CULTH's Bane</a></li>
         </ul>
     </nav>
 </header>
@@ -35,12 +37,24 @@
     <section id="main" class="wrapper">
         <div class="inner">
             <h1 class="major">Shelter</h1>
-            <span class="image fit"><img src="images/Warmth.png" alt=""/></span>
 
-            <p>Shelter was done during the GlobalGameJam2019, where we decide to do a 2D platformer. We hit a lot of
-                obstacles as it was our first Game Jam but we got something that is playable. In Shelter you control a
+            <div class="featured-image has-ribbon w3-content w3-display-container image fit">
+                <img class="mySlides" src="myAssets/Shelter/shelterStart.png" alt="" style="display: block">
+                <img class="mySlides" src="myAssets/Shelter/Warmth.png" alt="" style="display: none">
+
+                <button class="w3-button w3-display-left" onclick="plusDivs(-1)" style="background-color: black">
+                    <
+                </button>
+                <button class="w3-button w3-display-right" onclick="plusDivs(+1)" style="background-color: black">
+                    >
+                </button>
+            </div>
+
+            <p> Shelter was done during the GlobalGameJam2019, where we decide to do a 2D platformer. We hit a lot of
+                obstacles as it was our first Game Jam, but we got something that is playable. In Shelter, you control a
                 man who finds himself in the woods during winter and needs to find/repair his shelter. So he adventures
-                out to find items like a torch to keep himself warm.</p>
+                out to find items like a torch to keep himself warm.
+            </p>
         </div>
     </section>
 
@@ -65,6 +79,8 @@
 <script src="assets/js/breakpoints.min.js"></script>
 <script src="assets/js/util.js"></script>
 <script src="assets/js/main.js"></script>
+<script src="assets/js/slideshow.js"></script>
+
 
 </body>
 </html>

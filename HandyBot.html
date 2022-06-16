@@ -10,6 +10,7 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
     <link rel="stylesheet" href="assets/css/main.css"/>
+    <link rel="stylesheet" href="assets/css/w3.css">
     <noscript>
         <link rel="stylesheet" href="assets/css/noscript.css"/>
     </noscript>
@@ -22,8 +23,11 @@
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
-            <li><a href="blogic_caffeine.html" class="active">HandyBot</a></li>
             <li><a href="https://bitbucket.org/dmar98/handjob/src/master/" class="active">SourceCode</a></li>
+
+            <li><a href="BlogicCaffeine.html" class="active">< Blogic Caffeine</a></li>
+            <li><a href="DetentionRoom.html" class="active">Detention Room ></a></li>
+
         </ul>
     </nav>
 </header>
@@ -35,10 +39,25 @@
     <section id="main" class="wrapper">
         <div class="inner">
             <h1 class="major">HandyBot</h1>
-            <span class="image fit"><iframe width="1400" height="600"
-                                            src="https://www.youtube.com/embed/-rOWdgVnNTU"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-                                            gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+
+            <div class="featured-image has-ribbon w3-content w3-display-container image fit">
+                <img class="mySlides" src="myAssets/HandyBot/handybot_wp.png" alt="Handybot" style="display: block"/>
+
+                <span class="mySlides frameWrapper">
+                    <iframe class="frame"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen
+                            src="https://www.youtube.com/embed/-rOWdgVnNTU">
+                    </iframe>
+                </span>
+
+                <button class="w3-button w3-display-left" onclick="plusDivs(-1)" style="background-color: black">
+                    <
+                </button>
+                <button class="w3-button w3-display-right" onclick="plusDivs(+1)" style="background-color: black">
+                    >
+                </button>
+            </div>
 
             <p>This game was made in a group of 4 Students and developed in the BTS Game Programming and Game Design as
                 a 4th Semester Project. The only requirement of the Project was Virtual Reality. We used Unity and the
@@ -70,6 +89,7 @@
 <script src="assets/js/breakpoints.min.js"></script>
 <script src="assets/js/util.js"></script>
 <script src="assets/js/main.js"></script>
+<script src="assets/js/slideshow.js"></script>
 
 </body>
 </html>
